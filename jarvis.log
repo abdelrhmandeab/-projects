@@ -1,0 +1,95 @@
+2026-02-02 20:14:19,068 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 20:14:19,469 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 20:14:19,733 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 20:15:51,122 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 20:15:51,328 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 20:15:51,530 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 20:19:41,963 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 20:19:42,175 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 20:19:42,381 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 20:21:10,424 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 20:21:10,688 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 20:21:10,948 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 20:59:58,317 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 20:59:59,005 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 20:59:59,310 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 21:03:22,058 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:03:22,278 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 21:03:22,588 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 21:04:31,776 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:04:32,017 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 21:04:32,214 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 21:05:27,713 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:05:27,963 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 21:05:27,963 | WARNING | Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-02-02 21:05:45,387 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 21:06:57,177 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:06:57,421 | INFO | HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin "HTTP/1.1 302 Found"
+2026-02-02 21:06:57,626 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/xet-read-token/536b0662742c02347bc0e980a01041f333bce120 "HTTP/1.1 200 OK"
+2026-02-02 21:10:12,861 | INFO | Processing audio with duration 00:09.984
+2026-02-02 21:10:16,821 | INFO | Detected language 'en' with probability 0.34
+2026-02-02 21:17:30,106 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:17:31,915 | INFO | Processing audio with duration 00:09.984
+2026-02-02 21:17:36,846 | INFO | Detected language 'en' with probability 0.34
+2026-02-02 21:18:50,862 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:18:51,813 | INFO | Processing audio with duration 00:09.984
+2026-02-02 21:18:53,547 | INFO | Detected language 'en' with probability 0.83
+2026-02-02 21:19:26,184 | INFO | LLM latency: 13.17s
+2026-02-02 21:22:17,052 | INFO | LLM latency: 7.66s
+2026-02-02 21:23:15,050 | INFO | LLM latency: 26.65s
+2026-02-02 21:31:05,962 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:31:17,476 | INFO | Processing audio with duration 00:09.856
+2026-02-02 21:31:18,706 | INFO | Detected language 'en' with probability 0.70
+2026-02-02 21:31:20,334 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:31:20,334 | INFO | Forwarding query to LLM
+2026-02-02 21:31:52,421 | INFO | LLM latency: 32.09s
+2026-02-02 21:37:03,040 | INFO | Processing audio with duration 00:09.856
+2026-02-02 21:37:04,229 | INFO | Detected language 'ar' with probability 0.52
+2026-02-02 21:37:06,279 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:37:06,279 | INFO | Forwarding query to LLM
+2026-02-02 21:37:25,967 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:37:37,477 | INFO | Processing audio with duration 00:09.920
+2026-02-02 21:37:38,680 | INFO | Detected language 'ar' with probability 0.34
+2026-02-02 21:37:40,691 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:37:40,691 | INFO | Forwarding query to LLM
+2026-02-02 21:41:17,716 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:41:28,712 | INFO | Processing audio with duration 00:09.920
+2026-02-02 21:41:29,998 | INFO | Detected language 'ar' with probability 0.38
+2026-02-02 21:41:43,546 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:41:43,546 | INFO | Forwarding query to LLM
+2026-02-02 21:41:43,546 | ERROR | LLM failed: stdout and stderr arguments may not be used with capture_output.
+2026-02-02 21:42:04,713 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:42:15,581 | INFO | Processing audio with duration 00:09.984
+2026-02-02 21:42:16,762 | INFO | Detected language 'en' with probability 0.46
+2026-02-02 21:42:18,269 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:42:18,269 | INFO | Forwarding query to LLM
+2026-02-02 21:42:18,273 | ERROR | LLM failed: stdout and stderr arguments may not be used with capture_output.
+2026-02-02 21:42:46,275 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:42:57,098 | INFO | Processing audio with duration 00:09.984
+2026-02-02 21:42:58,309 | INFO | Detected language 'en' with probability 0.61
+2026-02-02 21:42:59,819 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:42:59,819 | INFO | Forwarding query to LLM
+2026-02-02 21:42:59,819 | ERROR | LLM failed: stdout and stderr arguments may not be used with capture_output.
+2026-02-02 21:43:48,195 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:43:59,145 | INFO | Processing audio with duration 00:09.984
+2026-02-02 21:44:00,330 | INFO | Detected language 'en' with probability 0.44
+2026-02-02 21:44:01,820 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:44:01,824 | INFO | Forwarding query to LLM
+2026-02-02 21:44:24,865 | INFO | LLM latency: 23.04s
+2026-02-02 21:45:02,757 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:45:14,266 | INFO | Processing audio with duration 00:09.920
+2026-02-02 21:45:15,444 | INFO | Detected language 'en' with probability 0.47
+2026-02-02 21:45:16,891 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:45:16,891 | INFO | Forwarding query to LLM
+2026-02-02 21:45:30,326 | INFO | LLM latency: 13.44s
+2026-02-02 21:45:35,617 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:45:46,563 | INFO | Processing audio with duration 00:09.920
+2026-02-02 21:45:47,744 | INFO | Detected language 'en' with probability 0.73
+2026-02-02 21:45:49,258 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:45:49,258 | INFO | Forwarding query to LLM
+2026-02-02 21:46:49,280 | ERROR | LLM failed: Command '['ollama', 'run', 'mistral', 'I  Have many questions about how many first of all how many dynasties we have an ancient Egypt the second question']' timed out after 60 seconds
+2026-02-02 21:46:56,934 | INFO | HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small/revision/main "HTTP/1.1 200 OK"
+2026-02-02 21:47:07,750 | INFO | Processing audio with duration 00:09.920
+2026-02-02 21:47:08,902 | INFO | Detected language 'ur' with probability 0.41
+2026-02-02 21:47:27,020 | INFO | Command classified as: LLM_QUERY
+2026-02-02 21:47:27,020 | INFO | Forwarding query to LLM
