@@ -1,0 +1,2 @@
+-this is a embbeded system using atmega32 avr 
+-using interfaced drivers for every component used

@@ -1,0 +1,1 @@
+- a hospital management system with a oop progamming and simple gui
